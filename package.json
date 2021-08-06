@@ -1,0 +1,22 @@
+{
+  "name": "003_js-platforms_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiiyas/003_js-platforms_Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiiyas/003_js-platforms_Node/issues"
+  },
+  "homepage": "https://github.com/kiiyas/003_js-platforms_Node#readme",
+  "dependencies": {
+    "@kiiyas/003_js-platforms": "^1.0.0"
+  }
+}
